@@ -53,5 +53,6 @@ public class Main {
             }
             return sumCosts;
         }
+        // Сделано ДЗ
     }
 }
